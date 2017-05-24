@@ -5,8 +5,6 @@
 - Call By Reference는 C언어 &로 구현이 가능하다.
 
 
-    // Language C
-    // Call By value And Reference
     void main(){
         int a = 1, b = 1, x = 1;
         int* c = &x;
