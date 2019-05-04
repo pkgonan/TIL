@@ -1,4 +1,4 @@
-# Database Locking
+# Database lock
 
 - 데이터 베이스의 DB, 컬럼 등을 동시에 접근하지 못하도록 잠그는 기법
 
